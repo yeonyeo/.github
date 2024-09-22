@@ -83,7 +83,7 @@
 
 ### 다이어그램
 #### ERD
-![ERD](https://github.com/user-attachments/assets/b73a09c5-d8ee-4f8e-ae6f-b294f07494b9)
+![ERD](https://github.com/user-attachments/assets/1786f9b2-a748-4ce4-ab82-9504949894f0)
 
 <br />
 
