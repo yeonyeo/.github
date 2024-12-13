@@ -47,6 +47,14 @@
 <hr/>
 <br/>
 
+### Friend
+<img src ="https://github.com/user-attachments/assets/112b6a6a-4248-4a23-bd4f-fd05476053e6" width="262" height= "568"/>
+<img src = "https://github.com/user-attachments/assets/95499435-363e-4498-a094-532de7cdbe2d" width="262" height= "568"/>
+<img src = "https://github.com/user-attachments/assets/bbebaf93-8fea-4b8e-bf5d-f9eaf53003e3" wirth= "262" height = "568"/>
+
+<hr/>
+<br/>
+
 #### Pay
 이미지 준비 중
 <br/>
