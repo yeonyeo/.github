@@ -56,7 +56,7 @@
 <br/>
 
 #### Pay
-<img src ="https://github.com/user-attachments/assets/a62a2405-47c9-432a-8470-9856474835df" width="262" height= "568"/>
+<img src ="https://github.com/user-attachments/assets/a62a2405-47c9-432a-8470-9856474835df" width="560" height= "260"/>
 
 
 <br/>
