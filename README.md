@@ -106,16 +106,23 @@
 ![아키텍쳐다이어그램](https://github.com/user-attachments/assets/ac86c8a1-2129-4671-99ad-52b6f9c4900a)
 
 
+
 <br />
 
 ## 그 외 자료
 ### PPT
-준비 중
+[딸깍_PPT.pdf](https://github.com/user-attachments/files/17253792/_PPT.pdf)
+
 
 <br />
 
+### Pay 사용 설명서
+https://www.notion.so/Pay-e577362b8e814014ae6e2b4a0e848b58
+
+
 ### 시연 영상
-준비 중
+https://github.com/user-attachments/assets/42730201-bee3-4cda-b885-87b8d6189e19
+
 
 <br />
 
